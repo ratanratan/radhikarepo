@@ -4,3 +4,5 @@ Second day of Git hub radika today is React last class.
 
 
 Checking the before push git upated 
+
+final operations 
